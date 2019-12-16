@@ -1,0 +1,4 @@
+Derivative: 	instantaneous rate of change/ slope of a tangent line.
+Leibnitz notation
+
+lim (x->Value) g(x) : what is the value that g(x) will be approaching as x is approaching closer and closer to Value
