@@ -1,0 +1,2 @@
+schematic component
+PCB footprint 
